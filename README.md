@@ -1,4 +1,6 @@
-# list
+# List
+
+Mobile App displaying famous quotes developed using Flutter
 
 A new Flutter project.
 
